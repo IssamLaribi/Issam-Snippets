@@ -1,0 +1,8 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor configs (optional, if you don’t want them in repo)
+.vscode/
+.idea/
+*.swp
