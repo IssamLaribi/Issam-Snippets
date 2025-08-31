@@ -1,7 +1,6 @@
 # 📂 Code Snippets Collection
 
 A personal collection of reusable **code snippets** for different programming languages.  
-This repository helps me quickly access, organize, and reuse useful code patterns.
 
 ---
 
