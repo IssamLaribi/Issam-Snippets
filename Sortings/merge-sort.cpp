@@ -1,3 +1,5 @@
+// Merge Sort: Best: O(n log n), Average: O(n log n), Worst: O(n log n), Space: O(n)
+
 // Helper function to merge the single element 
 void merge(vector<int>& leftArr, vector<int>& rightArr, vector<int>& arr) {
     int l = 0, r = 0, i = 0;
