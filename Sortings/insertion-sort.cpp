@@ -1,3 +1,4 @@
+// Best: O(n), Average: O(n^2), Worst: O(n^2), Space: O(1).
 void insertionSort(int arr[], int n) {
     for (int i = 1; i < n - 1; i++) {
         int key = arr[i];
